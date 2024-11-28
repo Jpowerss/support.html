@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VIN Decoder Support</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .contact-section {
+            margin: 20px 0;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>VIN Decoder Support</h1>
+    
+    <div class="contact-section">
+        <h2>Contact Us</h2>
+        <p>For support with the VIN Decoder app, please contact:</p>
+        <p>Email: support@vindecoder.com</p>
+    </div>
+
+    <div class="contact-section">
+        <h2>Frequently Asked Questions</h2>
+        <h3>How do I scan a VIN?</h3>
+        <p>Tap the "Scan VIN" button and point your camera at the VIN number on your vehicle.</p>
+        
+        <h3>Where can I find my VIN?</h3>
+        <p>Your VIN can be found in several locations:</p>
+        <ul>
+            <li>Driver's side dashboard near windshield</li>
+            <li>Driver's side door jamb</li>
+            <li>Vehicle registration document</li>
+            <li>Insurance card</li>
+        </ul>
+        
+        <h3>How do I remove ads?</h3>
+        <p>You can remove ads by purchasing the ad-free version for $1.99 through the in-app store.</p>
+    </div>
+</body>
+</html>
